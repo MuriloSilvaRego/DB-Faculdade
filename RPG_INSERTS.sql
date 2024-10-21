@@ -45,7 +45,8 @@ VALUES("Corpo a corpo (Atk)"),
       ("Armadura");
 
 INSERT INTO EFEITOS(DESCRICAO, NOME)
-VALUE("Aumenta número de ataques neste turno em 1", "Além do limite"),
+VALUE("Item sem efeitos", "Sem efeitos"),
+     ("Aumenta número de ataques neste turno em 1", "Além do limite"),
      ("Ganha vantagem contra ataques inimigos por 3 turnos", "Cautela"),
      ("Auemnta o dano da arma corpo  corpo equipada em 4", "Afiação"),
      ("Ganha vantagem no próximo ataque", "Concentração"),
